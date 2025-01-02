@@ -9,6 +9,16 @@ main {
     width: 90%;
 }
 
+main img {
+    width: 17%;
+    height: 7.5rem;
+    border-radius: 50%;
+}
+
 main input {
     width: 88%;
+}
+
+main p {
+    font-size: 1.7rem;
 }

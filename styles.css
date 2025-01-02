@@ -11,6 +11,7 @@ html {
 /* GENERAL STYLING */
 body {
     background-color: black;
+    font-family: "Roboto", serif;
 }
 
 
@@ -47,11 +48,12 @@ main img {
 
 .main-headings h2 {
     font-size: 1.6rem;
+    color: yellow;
 }
 
 main p {
     font-size: 2rem;
-    color: yellow;
+    color: white;
 }
 
 main input {
